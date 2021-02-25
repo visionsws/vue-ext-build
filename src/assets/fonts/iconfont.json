@@ -1,0 +1,65 @@
+{
+  "id": "2365446",
+  "name": "vue-ext-build",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "外部构建项目",
+  "glyphs": [
+    {
+      "icon_id": "19824546",
+      "name": "地址管理-my",
+      "font_class": "dizhiguanli-my",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "15838606",
+      "name": "user-filling",
+      "font_class": "user-filling",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "18267907",
+      "name": "仓储仓库",
+      "font_class": "cangchucangku",
+      "unicode": "e98c",
+      "unicode_decimal": 59788
+    },
+    {
+      "icon_id": "18267914",
+      "name": "存储",
+      "font_class": "cunchu",
+      "unicode": "e98d",
+      "unicode_decimal": 59789
+    },
+    {
+      "icon_id": "18267915",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e98e",
+      "unicode_decimal": 59790
+    },
+    {
+      "icon_id": "19030008",
+      "name": "Password",
+      "font_class": "Password",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19410758",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e99e",
+      "unicode_decimal": 59806
+    },
+    {
+      "icon_id": "19824543",
+      "name": "通讯录-my",
+      "font_class": "tongxunlu-my",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    }
+  ]
+}
